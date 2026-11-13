@@ -83,10 +83,3 @@ Linux &nbsp;·&nbsp; Git
     <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kajalhoskul&theme=default" alt="Contribution activity">
   </picture>
 </p>
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=kajalhoskul&hide_border=true&background=00000000&ring=8B949E&fire=C9D1D9&currStreakLabel=E6EDF3&sideLabels=8B949E&currStreakNum=E6EDF3&sideNums=E6EDF3&dates=6E7681&stroke=30363D">
-    <img src="https://streak-stats.demolab.com?user=kajalhoskul&hide_border=true&background=00000000&ring=8B949E&fire=57606A&currStreakLabel=1F2328&sideLabels=656D76&currStreakNum=1F2328&sideNums=1F2328&dates=8C959F&stroke=D0D7DE" alt="Contribution streak">
-  </picture>
-</p>
