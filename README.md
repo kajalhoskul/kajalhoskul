@@ -1,57 +1,92 @@
-<div align="center">
+<h1 align="center">Kajal Changappa</h1>
 
-# Hi, I'm Kajal Changappa 👋
+<p align="center">
+  <i>Security &nbsp;·&nbsp; Embedded systems &nbsp;·&nbsp; Machine learning</i>
+</p>
 
-<a href="https://github.com/kajalhoskul">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&center=true&vCenter=true&width=600&lines=Security+%C2%B7+Embedded+%C2%B7+Machine+Learning;Automotive+%26+aviation+intrusion+detection;Edge+AI%2C+RAG+and+data+analytics" alt="Typing SVG" />
-</a>
+<p align="center">
+  <a href="https://github.com/kajalhoskul?tab=repositories">Work</a>
+  &nbsp;&nbsp;/&nbsp;&nbsp;
+  <a href="https://github.com/kajalhoskul">GitHub</a>
+  <!-- &nbsp;&nbsp;/&nbsp;&nbsp;<a href="https://www.linkedin.com/in/YOUR-HANDLE">LinkedIn</a> -->
+  <!-- &nbsp;&nbsp;/&nbsp;&nbsp;<a href="mailto:you@example.com">Email</a> -->
+</p>
 
-</div>
+<br>
 
-I build tools at the edge of **security, embedded systems and machine learning**: intrusion detection for vehicles and aircraft, network scanners, telecom voice-quality probes, TinyML on microcontrollers, and analytics dashboards.
+I build quiet, careful systems for places where failure is loud: vehicles, aircraft, railways and networks.
+My work sits where security, embedded engineering and applied machine learning meet.
 
-- 🔭 Currently working on vehicle and aviation security projects (CAN bus, ADS-B, OTA updates)
-- 🌱 Learning more about edge AI, TSN networking and retrieval-augmented generation
-- 💬 Ask me about Python, C, network security or data analytics
+<br>
 
-## 🛠️ Tech stack
+### Selected work
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/kajalhoskul/frmcs-voice-qos-probe"><b>FRMCS Voice QoS Probe</b></a><br>
+      <sub>C11 &nbsp;·&nbsp; Telecom</sub><br><br>
+      Measures whether a mobile bearer is fit for mission-critical rail voice, scoring calls with the ITU-T G.107 E-model.
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/kajalhoskul/edge-systems-lab"><b>Edge Systems Lab</b></a><br>
+      <sub>Python &nbsp;·&nbsp; Embedded</sub><br><br>
+      Zero-heap TinyML inference, a lock-free TSN queue, and a generator that turns datasheets into drivers.
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/kajalhoskul/can-bus-intrusion-detection"><b>CAN Bus Intrusion Detection</b></a><br>
+      <sub>Python &nbsp;·&nbsp; Automotive security</sub><br><br>
+      Spots malicious frames in in-vehicle network traffic.
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/kajalhoskul/adsb-spoofing-detector"><b>ADS-B Spoofing Detector</b></a><br>
+      <sub>Aviation security</sub><br><br>
+      Flags forged aircraft position broadcasts before they mislead anyone watching the sky.
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/kajalhoskul/netsentry"><b>NetSentry</b></a><br>
+      <sub>Python &nbsp;·&nbsp; Network security</sub><br><br>
+      Threaded port scanning, service fingerprinting and CVE cross-referencing, with clean JSON and HTML reports.
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/kajalhoskul/multi-source-rag-models"><b>Multi-Source RAG</b></a><br>
+      <sub>Python &nbsp;·&nbsp; Applied ML</sub><br><br>
+      Retrieval-augmented generation that reasons across several data sources at once.
+    </td>
+  </tr>
+</table>
 
-## 🚀 Featured projects
+<br>
 
-| Project | What it does |
-|---|---|
-| [**frmcs-voice-qos-probe**](https://github.com/kajalhoskul/frmcs-voice-qos-probe) | RTP/SIP voice quality probe in C11. Scores mission-critical rail voice (GSM-R / FRMCS) with the ITU-T G.107 E-model. |
-| [**edge-systems-lab**](https://github.com/kajalhoskul/edge-systems-lab) | Zero-heap TinyML inference, a lock-free TSN queue and a RAG datasheet-to-driver generator. |
-| [**netsentry**](https://github.com/kajalhoskul/netsentry) | Threaded TCP scanner with banner fingerprinting, CVE cross-referencing and JSON/HTML reports. |
-| [**can-bus-intrusion-detection**](https://github.com/kajalhoskul/can-bus-intrusion-detection) | Detects attacks on in-vehicle CAN bus traffic. |
-| [**adsb-spoofing-detector**](https://github.com/kajalhoskul/adsb-spoofing-detector) | Flags spoofed aircraft ADS-B position broadcasts. |
-| [**multi-source-rag-models**](https://github.com/kajalhoskul/multi-source-rag-models) | Retrieval-augmented generation over multiple data sources. |
+### Toolkit
 
-## 📊 GitHub stats
+<sub>LANGUAGES</sub><br>
+Python &nbsp;·&nbsp; C &nbsp;·&nbsp; Java &nbsp;·&nbsp; JavaScript &nbsp;·&nbsp; SQL
 
-<div align="center">
-  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kajalhoskul&theme=github_dark" alt="GitHub stats" />
-  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kajalhoskul&theme=github_dark" alt="Top languages" />
-</div>
+<sub>DOMAINS</sub><br>
+Intrusion detection &nbsp;·&nbsp; Network security &nbsp;·&nbsp; Embedded &amp; edge AI &nbsp;·&nbsp; Data analytics
 
-## 🔥 Contribution streak
+<sub>ENVIRONMENT</sub><br>
+Linux &nbsp;·&nbsp; Git
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=kajalhoskul&hide_border=true" alt="GitHub streak" />
-</div>
+<br>
 
-## 🌐 Connect with me
+### Activity
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kajalhoskul)
-<!-- Add your links, for example:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR-HANDLE)
--->
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kajalhoskul&theme=github_dark">
+    <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kajalhoskul&theme=default" alt="Contribution activity">
+  </picture>
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=kajalhoskul&hide_border=true&background=00000000&ring=8B949E&fire=C9D1D9&currStreakLabel=E6EDF3&sideLabels=8B949E&currStreakNum=E6EDF3&sideNums=E6EDF3&dates=6E7681&stroke=30363D">
+    <img src="https://streak-stats.demolab.com?user=kajalhoskul&hide_border=true&background=00000000&ring=8B949E&fire=57606A&currStreakLabel=1F2328&sideLabels=656D76&currStreakNum=1F2328&sideNums=1F2328&dates=8C959F&stroke=D0D7DE" alt="Contribution streak">
+  </picture>
+</p>
